@@ -1,7 +1,7 @@
 # Assembling Planckton
 
 ## 1. Preparing the PCB 
-![PCB](Images/Assembly/PCB.jpg) 
+![PCB](Images/Assembly/PCB-initial.jpg) 
 
 Once you have printed your PCB, the first thing is to pry out the excess plastic in the switch slots. They are fairly easy to pull out, I used a pair of [flush pliers](https://www.aliexpress.com/item/P00337-Electrical-Wire-Cable-Cutters-Cutting-Side-Snips-Flush-Pliers-Nipper-Hand-Tools-Herramientas/32686834481.html?spm=2114.search0104.3.9.99665f6eQu8w5k&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_10130_10547_319_317_10548_10696_10192_10190_453_10084_454_10083_10618_10307_10820_10301_10821_538_10303_537_536_10059_10884_10887_100031_321_322_10103,searchweb201603_2,ppcSwitch_0&algo_expid=9b10be04-4f9c-4a78-b933-385b893fbfa9-1&algo_pvid=9b10be04-4f9c-4a78-b933-385b893fbfa9):
 
@@ -21,7 +21,7 @@ Next step is to glue our hotswap sockets. Since the sockets are quite small, get
 
 ![Hotswaps-Glue-Phase1](Images/Assembly/Hotswaps-Glue-Phase1.jpg)
 
-Once you've figured out hot they fit, start gluing!
+Once you've figured out how they fit, start gluing!
 
 ![Hotswaps-Glue-Phase2](Images/Assembly/Hotswaps-Glue-Phase2.jpg)
 

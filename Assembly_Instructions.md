@@ -32,3 +32,59 @@ Once you've figured out how they fit, start gluing!
 Once you're done, your PCB will look like below:
 
 ![Hotswaps-Glue-Phase3](Images/Assembly/Hotswaps-Glue-Phase3.jpg)
+
+---
+
+## 3. Soldering the Diodes
+The next step is to solder our 48 diodes. For those of you who have little to no soldering experience, [here](https://www.reddit.com/r/MechanicalKeyboards/comments/9h4z6x/how_to_solder_xpost_from_rcoolguides/) is a really simple guide on how to do it.
+
+Setup your soldering work station:
+![Solder-station-full](Images/Assembly/3/solder-station-full.jpg)
+
+Start from the bottom right and begin by bending and clipping the diode so it fits nicely:
+
+![row-1-pre-solder-first](Images/Assembly/3/row-1-pre-solder-first.jpg)
+
+> Ensure you have the diode the right way round and that it has a little bit of clearance around the holes
+
+Next, solder the diode:
+
+![row-1-solder-first-2](Images/Assembly/3/row-1-solder-first-2.jpg)
+
+You now want to repeat this pattern, but you want the diodes to create a horizontal chain (for the row):
+![row-1-solder-second](Images/Assembly/3/row-1-solder-second.jpg)
+
+> You might find it easier to get some small narrow weight to hold the diode in place whilst you're soldering, or it might move. 
+
+Repeat this until you have completed the first row:
+
+![row-1-solder-complete](Images/Assembly/3/row-1-solder-complete.jpg)
+
+> You should also solder the final socket, like shown in the next image. 
+
+Once you've done the first row, repeat for the next two rows, until you end up with something similar to below:
+
+![row-3-solder-complete](Images/Assembly/3/row-3-solder-complete.jpg)
+
+The final row is by far the trickiest due to the power input. You can bend the first diode like this:
+
+![row-4-pre-solder](Images/Assembly/3/row-4-pre-solder.jpg)
+
+And bend the second one like below:
+
+![row-4-pre-solder-2](Images/Assembly/3/row-4-pre-solder-2.jpg)
+
+Now solder:
+![row-4-pre-solder-3](Images/Assembly/3/row-4-pre-solder-3.jpg)
+
+The next diode is also quite tricky, but below is how I did it, along with the next few:
+
+![row-4-solder-around-power](Images/Assembly/3/row-4-solder-around-power.jpg)
+
+Your rev of Planckton will be slightly different to this, but here is the completed top row:
+
+![row-4-solder-central](Images/Assembly/3/row-4-solder-central.jpg)
+
+Once done, it will look something like this:
+
+![completed](Images/Assembly/3/completed.jpg)
